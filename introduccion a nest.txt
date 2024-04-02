@@ -8,5 +8,6 @@
   - nest new project-name (project-name) se cambia por el nombre del proyecto
   - cd nombre del proyecto
 - ejecutar el comando: npm run start
+NOTA: Para detener la aplicación se ejecuta el comando: control (ctrl) + c
 6. comando para ejecutar la aplicación en modo desarrollador: npm run start:dev
 
