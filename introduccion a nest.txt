@@ -1,0 +1,4 @@
+1. Tener node js instalado
+  - Para ver si tengo node js instalado ejecuto el siguiente comando: node --version
+2. Tener visual studio code instalado
+3. npm i @nestjs/cli
