@@ -2,3 +2,4 @@
   - Para ver si tengo node js instalado ejecuto el siguiente comando: node --version
 2. Tener visual studio code instalado
 3. npm i @nestjs/cli
+4. documentación de nest: https://docs.nestjs.com/
