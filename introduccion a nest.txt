@@ -3,3 +3,6 @@
 2. Tener visual studio code instalado
 3. npm i @nestjs/cli
 4. documentación de nest: https://docs.nestjs.com/
+5. comando para instalar nest en el computador
+  - npm i -g @nestjs/cli
+  - nest new project-name
