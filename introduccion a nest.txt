@@ -5,4 +5,4 @@
 4. documentación de nest: https://docs.nestjs.com/
 5. comando para instalar nest en el computador
   - npm i -g @nestjs/cli
-  - nest new project-name
+  - nest new project-name (project-name) se cambia por el nombre del proyecto
